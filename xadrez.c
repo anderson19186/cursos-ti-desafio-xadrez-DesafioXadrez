@@ -16,7 +16,7 @@ int main() {
       
       while (contadorbispo<=bispo)
       {
-        printf("direita, cima \n");
+        printf("Direita, Cima \n");
         contadorbispo++;
       }
     // Implementação de Movimentação da Torre
@@ -24,7 +24,7 @@ int main() {
         printf("Movimentação da Torre \n"); 
        for (int torre = 1; torre<=contadortorre; torre++)
        {
-        printf("Torre direita \n");
+        printf("Direita \n");
        }
        
     // Implementação de Movimentação da Rainha
